@@ -1,4 +1,4 @@
-# BulkyBook - ASP.NET Core MVC E-commerce Application
+# ASP.NET Core MVC E-commerce Application
 
 ## Description
 
